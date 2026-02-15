@@ -1,0 +1,20 @@
+
+# Directory and Files Commands
+
+pwd     =>	# show current path directory
+ls      =>	# show files/folders in directory
+ls -l   =>      # show detail list
+ls -a   =>      # show hidden files
+
+
+# Directory Related
+cd foldername	=> change directory
+cd ..		=> one location up OR one step back from current space/directory
+cd ~		=> home directory
+
+
+# File Handling
+touch file.txt      => new file created
+cat file.txt        => show file content
+nano/vim file.txt   => for file edit
+
