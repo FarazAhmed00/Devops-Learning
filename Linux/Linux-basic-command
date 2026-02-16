@@ -37,4 +37,5 @@ history => show all commands used before
 clear    => Clear Screen or terminal 
 date     => Show Current date/time 
 top      => Show system Processes
+free
 
